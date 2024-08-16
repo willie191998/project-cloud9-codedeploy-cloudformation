@@ -1,7 +1,7 @@
-### NextWork Web Deployment Project
+# NextWork Web Deployment Project
 This repository contains the necessary scripts and configuration files for deploying the NextWork web application using AWS services. The deployment process is automated through AWS CodeDeploy, with supporting resources such as S3, EC2, IAM, and CloudFormation.
 
-## Resouirces Used
+### Resources Used
 Cloud9
 Cloudformation
 Codebuild
@@ -11,7 +11,7 @@ S3
 
 ## Project Structure
 
-# scripts/
+## scripts/
 
 **install_dependencies.sh**: Installs necessary dependencies for the application.
 **start_server.sh**: Starts the Tomcat and Apache services.
