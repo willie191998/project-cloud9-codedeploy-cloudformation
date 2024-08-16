@@ -1,6 +1,8 @@
 # NextWork Web Deployment Project
 This repository contains the necessary scripts and configuration files for deploying the NextWork web application using AWS services. The deployment process is automated through AWS CodeDeploy, with supporting resources such as S3, EC2, IAM, and CloudFormation.
 
+![pipeline architecture](https://github.com/willie191998/project-cloud9-codedeploy-cloudformation/blob/main/images/intro-architecture-annotated-cloud9.png)
+
 ### Resources Used
 Cloud9
 Cloudformation
